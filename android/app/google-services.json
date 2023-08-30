@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "926855886070",
+    "firebase_url": "https://validasi-49844-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "validasi-49844",
+    "storage_bucket": "validasi-49844.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926855886070:android:5a20f1c45f1dfeb89228d7",
+        "android_client_info": {
+          "package_name": "com.mycompany.animelovers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926855886070-7n025db0s5d45ntv4k066ti6mmv29l6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.animelovers",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "926855886070-07la4ovvkjk49em8p9h1tnbeo0evugi5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-QZ3QNzeJFQOAocF2D82P4lV2bVkPm5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926855886070-07la4ovvkjk49em8p9h1tnbeo0evugi5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "926855886070-c0emljn4no37brfanf9jo56nbas54qe6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.animelovers"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926855886070:android:a61417b65009ad549228d7",
+        "android_client_info": {
+          "package_name": "com.mycompany.aplikasivalidasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926855886070-ij2u95gkcqvsodf555o8e7rnqf5jkq8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.aplikasivalidasi",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "926855886070-07la4ovvkjk49em8p9h1tnbeo0evugi5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-QZ3QNzeJFQOAocF2D82P4lV2bVkPm5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926855886070-07la4ovvkjk49em8p9h1tnbeo0evugi5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "926855886070-c0emljn4no37brfanf9jo56nbas54qe6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.animelovers"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
